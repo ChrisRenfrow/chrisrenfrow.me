@@ -2,7 +2,6 @@
 title = "Hello, world"
 date = 2020-09-16
 draft = false
-
 [taxonomies]
 categories = [ "test" ]
 tags = [ "hello" ]
