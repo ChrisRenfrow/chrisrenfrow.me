@@ -19,7 +19,7 @@ after_dark_title = "crenfrow"
 after_dark_menu = [
     { name="$HOME", url="/" },
     { name="$ABOUT", url="/pages/about" },
-    { name="|" },
+    # { name="|" },
     { name="$CATEGORIES", url="/categories" },
     { name="$TAGS", url="/tags" },
 ]
