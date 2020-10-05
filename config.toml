@@ -1,0 +1,26 @@
+title = "Chris Renfrow"
+description = "Just some space to express myself"
+base_url = "https://chrisrenfrow.me"
+
+compile_sass = true
+highlight_code = true
+highlight_theme = "solarized-dark"
+build_search_index = true
+
+taxonomies = [
+    { name = "categories", rss = true },
+    { name = "tags", rss = true }
+]
+
+theme = "after-dark"
+
+[extra]
+after_dark_title = "crenfrow"
+after_dark_menu = [
+    { name="$HOME", url="/" },
+    { name="$ABOUT", url="/pages/about" },
+    { name="|" },
+    { name="$CATEGORIES", url="/categories" },
+    { name="$TAGS", url="/tags" },
+]
+after_dark_color_scheme = "solarized"
