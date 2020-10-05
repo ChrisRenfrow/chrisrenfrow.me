@@ -3,7 +3,7 @@ title = "gatsby -> zola"
 description = "On the transition from Gatsby to Zola and what's in store for the next chapter of this site."
 date = 2020-10-01
 
-draft = true
+draft = false
 [taxonomies]
 categories = ["announcements"]
 tags = ["zola", "zettelkasten"]
@@ -15,7 +15,7 @@ Formerly, I had been using [Gatsby](https://www.gatsbyjs.com) to generate the st
 
 ## Goodbye Gatsby, Hello Zola
 
-Zola caught my eye because it's simple, very flexible, and it's written in Rust! With Zola I'm simply using basic [Tera](https://tera.netlify.app/) templates instead of the ultra-modern React framework I was using with Gatsby. By using Zola, I'm returning to the fundamentals of static site generation, and I think it's better this way. In this case, less is more.
+Zola caught my eye because it's simple, very flexible, and it's written in Rust! With Zola I'm simply using [Tera](https://tera.netlify.app/) templates instead of the ultra-modern React framework I was using with Gatsby. By using Zola, I'm returning to the fundamentals of static site generation, and I think it's better this way. In this case, less is more.
 
 ## Planning Ahead
 
